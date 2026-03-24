@@ -15,7 +15,7 @@ Sistema para conectar freelancers a restaurantes, permitindo candidatura em vaga
 - Gerenciamento de dados
 
 ## 📸 Preview
-(coloca print aqui)
+
 
 ## ▶️ Como rodar
 npm install
